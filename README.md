@@ -9,7 +9,7 @@ This installer is for Windows 7 only. Later versions of Windows have built in su
 
 ## Supported SparkFun Boards
 
-* Qwiic Micro
+* SparkFun Qwiic Micro
 * SparkFun RedBoard Turbo
 * SparkFun SAMD21 Development Breakout Board
 * SparkFun SAMD21 Mini Breakout Board
