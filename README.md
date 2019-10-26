@@ -21,6 +21,6 @@ This installer is for Windows 7 only. Later versions of Windows have built in su
 
 ## Installation
 
-To install the package, just double click on the executable and follow the steps outlined by the installer.
+Head to the [tagged releases in this GitHub repo](https://github.com/sparkfun/samd_windows7_installer/releases) to download the installer package (this is the executable and will have a version number associated with the release like **sparkfun_drivers_1.0.5.3.exe**). To install the package, just double click on the executable and follow the steps outlined by the installer.
 
-During the install process, Windows will warn that "Windows can't verify the publisher of this driver software". This is normal for this particular package. The "Install this driver software anyway" option should be selected.
+During the install process, Windows will warn that "**Windows can't verify the publisher of this driver software**". This is normal for this particular package. The "**Install this driver software anyway**" option should be selected.
